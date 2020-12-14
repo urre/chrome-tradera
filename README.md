@@ -6,7 +6,10 @@ Tradera.com is an online marketplace based in Sweden.
 
 ![](https://res.cloudinary.com/urre/image/upload/v1607935084/screenshots/h5wp57ucgdgloi8sxbzr.jpg)
 
-Right click → Choose "Öppna X på Tradera.se"
+## Usage
+
+1. Select text on a webpage
+2. Right click → Choose "Öppna X på Tradera.se"
 
 ## Install
 
@@ -15,11 +18,6 @@ Right click → Choose "Öppna X på Tradera.se"
 + Click Load unpacked extension… ("Hämta okomprimerat tillägg" in Swedish)
 + Navigate to the ``tradera-chrome`` folder, where you saved it
 + Enjoy!
-
-## Usage
-
-1. Select text on a webpage
-2. Right click → Choose "Öppna X på Tradera.se"
 
 ## Related
 
