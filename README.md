@@ -4,7 +4,7 @@ Chrome Extension for searching selected text on [tradera.com](http://www.tradera
 
 Tradera.com is an online marketplace based in Sweden.
 
-![](https://res.cloudinary.com/urre/image/upload/v1607935084/screenshots/h5wp57ucgdgloi8sxbzr.jpg)
+![](https://res.cloudinary.com/urre/image/upload/v1608037902/screenshots/anvrgxmxyp8ib4q6iav8.jpg)
 
 ## Usage
 

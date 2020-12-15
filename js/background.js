@@ -10,7 +10,7 @@
 
 			chrome.runtime.onInstalled.addListener(function() {
 				var context = "selection";
-				var title = "Öppna ”%s” på tradera.com";
+				var title = "Sök ”%s” på tradera.com";
 				var id = chrome.contextMenus.create({
 					"title": title,
 					"contexts": [context],

@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Tradera Chrome",
   "version": "1.0.0",
-  "description": "Opens the current selection on Tradera.se",
+  "description": "Chrome Extension for searching selected text on tradera.com",
   "author": "Urban Sanden",
   "permissions": [
      "tabs",
