@@ -9,7 +9,7 @@ Tradera.com is an online marketplace based in Sweden.
 ## Usage
 
 1. Select text on a webpage
-2. Right click → Choose "Öppna X på Tradera.se"
+2. Right click → Choose "Sök [selected text] på tradera.com"
 
 ## Install
 
